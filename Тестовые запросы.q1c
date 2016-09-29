@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Новый запрос">
+		<text>Выбрать &amp;Парам1
+Объединить Все
+Выбрать &amp;Парам2
+</text>
+		<parameters>
+			<parameter name="Парам1" type="Строка" value="1"/>
+			<parameter name="Парам2" type="Строка" value="2"/>
+		</parameters>
+	</query>
+</querylist>
