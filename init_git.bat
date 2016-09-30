@@ -1,0 +1,1 @@
+oscript init_git.os
